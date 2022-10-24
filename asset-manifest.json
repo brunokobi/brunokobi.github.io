@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1e1ebb37.css",
-    "main.js": "/static/js/main.bcd0816b.js",
+    "main.js": "/static/js/main.11975e43.js",
     "static/media/profile.png": "/static/media/profile.710b221bc9bf1e629d98.png",
     "static/media/int-icon.png": "/static/media/int-icon.c16ab127364b1538a9db.png",
     "static/media/rock.png": "/static/media/rock.a9017923f5406d9b87b8.png",
@@ -9,17 +9,22 @@
     "static/media/certificado_3.png": "/static/media/certificado_3.05aca430a2fb2ef7e0fe.png",
     "static/media/certificado_6.png": "/static/media/certificado_6.3dcd3dabfbd1c970fa07.png",
     "static/media/certificado_1.png": "/static/media/certificado_1.17dcdaf27d5981fab4e7.png",
+    "static/media/placas.png": "/static/media/placas.34b639dadeed875b6efa.png",
     "static/media/certificadoKenzie.jpg": "/static/media/certificadoKenzie.290b09fd831e493aa8b0.jpg",
     "static/media/certificado_5.png": "/static/media/certificado_5.9b43a5f60f61802fdde5.png",
     "static/media/certificado_4.png": "/static/media/certificado_4.87305529290601128be7.png",
     "static/media/certificado_7.png": "/static/media/certificado_7.0a4cda0fc8007cd8b54f.png",
-    "static/media/home-animation-removed.gif": "/static/media/home-animation-removed.8231ffe869a192d8e752.gif",
+    "static/media/bio.png": "/static/media/bio.8dbfb11bf2ff32a8fdc5.png",
+    "static/media/astro.png": "/static/media/astro.f170cf5badb90f02d285.png",
+    "static/media/home-animation-removed.gif": "/static/media/home-animation-removed.51b80c6296d22d131f44.gif",
+    "static/media/guia.jpg": "/static/media/guia.818602458c81c810dc21.jpg",
+    "static/media/etica.png": "/static/media/etica.1cde4e895a21ed521fde.png",
     "index.html": "/index.html",
     "main.1e1ebb37.css.map": "/static/css/main.1e1ebb37.css.map",
-    "main.bcd0816b.js.map": "/static/js/main.bcd0816b.js.map"
+    "main.11975e43.js.map": "/static/js/main.11975e43.js.map"
   },
   "entrypoints": [
     "static/css/main.1e1ebb37.css",
-    "static/js/main.bcd0816b.js"
+    "static/js/main.11975e43.js"
   ]
 }
